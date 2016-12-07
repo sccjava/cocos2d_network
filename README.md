@@ -2,7 +2,7 @@
 
 For cocos2d-x-2.1.5, HttpClient & HttpRequest, it doesn't support upload file via FORM.
 
-So I add FORM uploading file function into it via curl. You can just merge these files into cocos2d-x-2.1.5\extensionsnetwork.
+So I add FORM uploading file function into it via curl. You can just merge these files into cocos2d-x-2.1.5\extensions\network.
 
 For better test your uploading file feature, you can upload file to below online http server:
 http://posttestserver.com/
